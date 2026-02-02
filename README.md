@@ -61,5 +61,13 @@ without loss of generality, that all input values are positive, that $w_j \leq C
 + Where are the hard knapsack problems?, [Computers and Operations Research](https://doi.org/10.1016/j.cor.2004.03.002)
 
 
+### 2004
++ H. Kellerer, U. Pferschy, D. Pisinger, [Knapsack Problems](https://link.springer.com/book/10.1007/978-3-540-24777-7) **Book**
+
+
 ### 2002
 + The nonlinear knapsack problem – algorithms and applications, [European Journal of Operational Research](https://doi.org/10.1016/S0377-2217(01)00179-5)
+
+
+### 1990
++ S. Martello, P. Toth, [Knapsack Problems: Algorithms and Computer Implementations](https://dl.acm.org/doi/10.5555/98124) **Book**
