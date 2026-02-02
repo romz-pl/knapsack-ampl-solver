@@ -1,5 +1,28 @@
 # The AMPL solver for Knapsack Problem
 
+> [!NOTE]
+> The ancestor problem is known as the 0-1 Knapsack Problem. Formally,
+> we are given a capacity $C$ and a set of $N$ items, each with a weight $w_j$ and a profit $p_j$ for $j \in 1..N$.
+> We want to determine a subset of items such that its total weight does
+> not exceed the capacity and its total profit is a maximum.
+
+## Mathematical problem
+The problem can then be formulated as the Integer Linear Programming (ILP) 
+
+$$
+\max_X \quad \sum_{j=1}^N p_j x_j
+$$
+
+subject to
+
+$$
+\sum_{j=1}^N w_j x_j \leq C,
+$$
+
+where $x_j$ for $j \in 1..N$ is the binary variable and it takes the value 1 if and only if item $j$ is selected. It can be assumed, 
+without loss of generality, that all input values are positive, that $w_j \leq C$ for $j \in 1..N$, and that $\sum_{j=1}^N w_j > C$.
+
+
 
 ## Datasets, Library and Benchmarks
 + Operations Research at University of Bologna, [https://site.unibo.it/operations-research/en/research/library-of-codes-and-instances-1]
