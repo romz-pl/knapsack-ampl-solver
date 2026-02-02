@@ -1,0 +1,18 @@
+option gurobi_options 'presolve=2 iis=1 outlev=1';
+
+option presolve 0;
+option show_stats 2;
+
+display N;
+display C;
+display W;
+display P;
+
+solve;
+
+display total_value;
+
+printf "Selected items\n";
+printf "==============\n";
+display X;
+
