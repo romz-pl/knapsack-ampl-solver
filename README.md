@@ -64,6 +64,9 @@ without loss of generality, that all input values are positive, that $w_j \leq C
 ### 2004
 + H. Kellerer, U. Pferschy, D. Pisinger, [Knapsack Problems](https://link.springer.com/book/10.1007/978-3-540-24777-7), **Book**
 
+### 2003
++ D.M. Gay, B.W. Kernighan [AMPL: A Modeling Language for Mathematical Programming](https://ampl.com/wp-content/uploads/BOOK.pdf), **Book**
+
 
 ### 2002
 + The nonlinear knapsack problem – algorithms and applications, [European Journal of Operational Research](https://doi.org/10.1016/S0377-2217(01)00179-5)
