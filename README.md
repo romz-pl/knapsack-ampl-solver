@@ -31,7 +31,7 @@ without loss of generality, that all input values are positive, that $w_j \leq C
 ## References
 
 ### 2026
-+ Recent Advances in Knapsack Problem: A Comprehensive Review of Models, Algorithms, and Applications [Neurocomputing](https://doi.org/10.1016/j.neucom.2025.132135)
++ Recent Advances in Knapsack Problem: A Comprehensive Review of Models, Algorithms, and Applications, [Neurocomputing](https://doi.org/10.1016/j.neucom.2025.132135)
 
 
 ### 2022
